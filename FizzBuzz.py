@@ -3,6 +3,7 @@ buzz = "Buzz"
 fizzbuzz = fizz + buzz
 increment3 = 3
 increment5 = 5
+APP_FILE = "FizzBuzz.py"
 
 def Default():
     for i in range(1,101):
